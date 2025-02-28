@@ -147,7 +147,7 @@
 }
 
 .lots__heading {
-  padding: 0px 891px 27px 40px;
+  padding: 0px 40px 27px 40px;
   font-weight: 700;
   font-size: 40px;
   line-height: 47px;
@@ -160,6 +160,7 @@
   flex-direction: row;
   flex-wrap: wrap;
   column-gap: 25px;
+  row-gap: 25px;
 }
 
 .lots__card-list-item {
